@@ -1,6 +1,6 @@
 # Digital Marketing Campaign Project
 
-This repository features our final deliverable for the Digital Marketing Campaign Project (Group 1, May 3 2025). Our mission was twofold: to discover which customer groups are most likely to convert in our digital campaigns and to translate those insights into clear, actionable recommendations.
+This repository features our final deliverable for the Digital Marketing Campaign Project. Our mission was twofold: to discover which customer groups are most likely to convert in our digital campaigns and to translate those insights into clear, actionable recommendations.
 
 ## What’s Inside
 
